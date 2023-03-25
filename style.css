@@ -60,7 +60,7 @@
 }
 
 .card-header {
-    background-image: url(img/firstbackground.png);
+    background-image: url(./img/firstbackground.png);
     height: 193px;
     padding: 15px;
     background-repeat: no-repeat;
@@ -69,7 +69,7 @@
 }
 
 .card-header.mujermaravilla {
-    background-image: url(img/secbackground.png);
+    background-image: url(./img/secbackground.png);
     height: 193px;
     padding: 15px;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@
 }
 
 .card-header.superman {
-    background-image: url(img/tercback.png);
+    background-image: url(./img/tercback.png);
     height: 193px;
     padding: 15px;
     background-repeat: no-repeat;
@@ -88,7 +88,7 @@
 }
 
 .card-header.harleyq {
-    background-image: url(img/cuartback.png);
+    background-image: url(./img/cuartback.png);
     height: 193px;
     padding: 15px;
     background-repeat: no-repeat;
