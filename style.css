@@ -26,10 +26,9 @@
 
 /* main */
 
-main {}
-
 .card {
     margin-bottom: 50px;
+    margin-right: 1rem;
 }
 
 .card-main {
@@ -280,43 +279,3 @@ main {
 hr {
     margin: 1rem 0 ;
 }
-/* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {}
-
-/* // Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-    main {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .card {
-        width: 48%;
-        margin-right: 1%;
-        margin-left: 1%;
-    }
-
-    .rights {
-        width: 90%;
-        text-align: center;
-    }
-
-    .icon-git {
-        width: 10%;
-    }
-}
-
-/* // Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-    .card {
-        width: 23%;
-        margin-right: 1%;
-        margin-left: 1%;
-    }
-}
-
-/* // X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {}
-
-/* // XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) {}
